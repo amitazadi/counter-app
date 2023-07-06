@@ -4,6 +4,10 @@ This project is made up of pure CSS, React and Redux(for state management).
 
 
 
+The main motive to make this web app is to learn Redux. And, yeah I learnt it.
+
+
+
 ##  **In the project directory, you will learn:**
 
 
